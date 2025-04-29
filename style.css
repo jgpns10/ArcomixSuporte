@@ -161,6 +161,10 @@
     text-align: center;
   }
 
+  .btn-voltar:hover {
+    background-color: #0053b3;
+  }
+
   @keyframes pulse {
     0% {
       box-shadow: 0 0 0px rgba(255, 255, 255, 0.6);
